@@ -1,0 +1,9 @@
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.MainForm.resources
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.PantallaPrincipal.resources
