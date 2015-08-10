@@ -1,0 +1,7 @@
+C:\Users\Daniel Rivas\ERP\ERP\bin\Release\ERP.exe.config
+C:\Users\Daniel Rivas\ERP\ERP\bin\Release\ERP.exe
+C:\Users\Daniel Rivas\ERP\ERP\obj\Release\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Rivas\ERP\ERP\obj\Release\ERP.MainForm.resources
+C:\Users\Daniel Rivas\ERP\ERP\obj\Release\ERP.PantallaPrincipal.resources
+C:\Users\Daniel Rivas\ERP\ERP\obj\Release\ERP.csproj.GenerateResource.Cache
+C:\Users\Daniel Rivas\ERP\ERP\obj\Release\ERP.exe

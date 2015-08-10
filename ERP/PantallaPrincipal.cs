@@ -28,6 +28,7 @@ namespace ERP
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
+			
 		}
 		void CmdregresarClick(object sender, EventArgs e)
 		{
@@ -35,5 +36,18 @@ namespace ERP
 			this.Hide();
 			x.Show();
 		}
+		void Button1Click(object sender, EventArgs e)
+		{
+			EmpleadoNuevo x=new EmpleadoNuevo();
+			this.Hide();
+			x.Show();
+		}
+		void PictureBox1Click(object sender, EventArgs e)
+		{
+			MainForm x=new MainForm();
+			this.Hide();
+			x.Show();
+		}
+		
 	}
 }

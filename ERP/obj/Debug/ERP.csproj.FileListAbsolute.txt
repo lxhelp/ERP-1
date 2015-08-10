@@ -7,12 +7,22 @@ C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.csproj.Gene
 C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.exe
 C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.pdb
 C:\Users\Pablo\Documents\SharpDevelop Projects\ERP\ERP\obj\Debug\ERP.PantallaPrincipal.resources
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\bin\Debug\ERP.exe.config
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\bin\Debug\ERP.exe
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\bin\Debug\ERP.pdb
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\obj\Debug\ERP.MainForm.resources
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\obj\Debug\ERP.PantallaPrincipal.resources
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\obj\Debug\ERP.exe
-C:\Users\Pablo\Documents\GitHub\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Daniel Rivas\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Daniel Rivas\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Daniel Rivas\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Daniel Rivas\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Rivas\ERP\ERP\obj\Debug\ERP.MainForm.resources
+C:\Users\Daniel Rivas\ERP\ERP\obj\Debug\ERP.PantallaPrincipal.resources
+C:\Users\Daniel Rivas\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Daniel Rivas\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Daniel Rivas\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Pablo\Desktop\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Pablo\Desktop\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Pablo\Desktop\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Pablo\Desktop\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\ERP\ERP\obj\Debug\ERP.MainForm.resources
+C:\Users\Pablo\Desktop\ERP\ERP\obj\Debug\ERP.PantallaPrincipal.resources
+C:\Users\Pablo\Desktop\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Pablo\Desktop\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Pablo\Desktop\ERP\ERP\obj\Debug\ERP.EmpleadoNuevo.resources
