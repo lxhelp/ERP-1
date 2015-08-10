@@ -73,6 +73,24 @@ namespace ERP
 				MessageBox.Show(err.ToString());
 				return false;
 			}
-		}//Funcion CerrarSesion
+		}
+		
+		
+		void TxtpassKeyPress(object sender, KeyPressEventArgs e)
+		{
+			if((int)e.KeyChar == (int)Keys.Enter)
+			{
+				if(ChecarSesion())
+				{
+					PantallaPrincipal x=new PantallaPrincipal();
+					this.Hide();
+					x.Show();
+				}
+				else
+				{
+					MessageBox.Show("Usuario o contraseña incorrecto.");
+				}
+			}
+		}//Funcion IniciarSesion
 	}
 }

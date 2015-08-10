@@ -84,6 +84,7 @@ namespace ERP
 			this.txtpass.PasswordChar = '*';
 			this.txtpass.Size = new System.Drawing.Size(159, 31);
 			this.txtpass.TabIndex = 3;
+			this.txtpass.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtpassKeyPress);
 			// 
 			// cmdiniciar
 			// 
