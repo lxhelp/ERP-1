@@ -19,6 +19,7 @@ namespace ERP
 		private System.Windows.Forms.Label lblicepro;
 		private System.Windows.Forms.Button btn_clientes;
 		private System.Windows.Forms.PictureBox pictureBox1;
+		private System.Windows.Forms.Button cmdventas;
 		
 		/// <summary>
 		/// Disposes resources used by the form.
@@ -47,6 +48,7 @@ namespace ERP
 			this.lblicepro = new System.Windows.Forms.Label();
 			this.btn_clientes = new System.Windows.Forms.Button();
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
+			this.cmdventas = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
 			// 
@@ -107,6 +109,17 @@ namespace ERP
 			this.pictureBox1.TabStop = false;
 			this.pictureBox1.Click += new System.EventHandler(this.PictureBox1Click);
 			// 
+			// cmdventas
+			// 
+			this.cmdventas.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.cmdventas.Location = new System.Drawing.Point(25, 137);
+			this.cmdventas.Name = "cmdventas";
+			this.cmdventas.Size = new System.Drawing.Size(154, 61);
+			this.cmdventas.TabIndex = 5;
+			this.cmdventas.Text = "VENTAS";
+			this.cmdventas.UseVisualStyleBackColor = true;
+			this.cmdventas.Click += new System.EventHandler(this.CmdventasClick);
+			// 
 			// PantallaPrincipal
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -115,6 +128,7 @@ namespace ERP
 			this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
 			this.ClientSize = new System.Drawing.Size(784, 583);
+			this.Controls.Add(this.cmdventas);
 			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.btn_clientes);
 			this.Controls.Add(this.lblicepro);

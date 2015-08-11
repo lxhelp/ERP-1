@@ -48,6 +48,12 @@ namespace ERP
 			this.Hide();
 			x.Show();
 		}
+		void CmdventasClick(object sender, EventArgs e)
+		{
+			VentaNueva x=new VentaNueva();
+			this.Hide();
+			x.Show();
+		}
 		
 	}
 }

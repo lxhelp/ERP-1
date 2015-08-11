@@ -91,6 +91,10 @@ namespace ERP
 					MessageBox.Show("Usuario o contraseña incorrecto.");
 				}
 			}
-		}//Funcion IniciarSesion
+		}
+		void Btn_cancelClick(object sender, EventArgs e)
+		{
+			Close();
+		}
 	}
 }
